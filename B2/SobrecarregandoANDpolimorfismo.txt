@@ -1,0 +1,20 @@
+SOBRECARREGAR O METODO: PEGA A ASSINATURA DO METODO.
+
+
+Void Heroi::Poder(float Poder) {
+Poder = poder+1;
+	
+}
+
+Float Heroi::Poder{
+poder = poder+1;
+
+}
+
+
+Thanos.Poder(6); o thanos vai receber o void heroi porque ta recebendo como parametro
+Thanos.Poder();  o thanos vai receber o flot heroi porque nao ta recebendo parametro
+
+
+
+POLIMORFISMO 
